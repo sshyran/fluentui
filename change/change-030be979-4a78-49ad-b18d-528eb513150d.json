@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "type": "minor",
+      "comment": "feat: codemod to migrate to new theme shape in v9",
+      "packageName": "@fluentui/codemods",
+      "email": "olfedias@microsoft.com",
+      "dependentChangeType": "patch"
+    }
+  ]
+}
